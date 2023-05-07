@@ -1,3 +1,4 @@
+![](https://github.com/AbhishekDG/AbhishekDG/blob/main/banner1.gif)
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Quality Assurance Engineer from India</h3>

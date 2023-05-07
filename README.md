@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://user-images.githubusercontent.com/132822668/236683562-f07cdcfb-10f7-4435-ad88-5e996a6b6ab6.png))]
+
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Quality Assurance Engineer from India</h3>
 
